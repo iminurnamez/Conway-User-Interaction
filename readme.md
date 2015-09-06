@@ -18,10 +18,15 @@ Rule Variants - Nine additional rules with interesting enough behavior that they
 ###Controls
 
 ESC - exit
+
 SPACE - toggle between editing and running sim
+
 UP/DOWN - speed up / slow down sim
+
 R - shortcut for Randomize button - randomly sets all cells in grid to alive or dead
+
 P - shortcut for Patterns button
+
 Click Cell - in editing mode this will toggle the cell between alive and dead
 
 
